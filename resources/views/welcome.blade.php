@@ -13,13 +13,11 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: orange; /*#636b6f;*/
-                /*cambio en local 3*/
+                color: green; /*#636b6f;*/
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
-                margin: 0;
-                /*cambio en local 4*/
+                margin: 0;                
             }
 
             .full-height {
