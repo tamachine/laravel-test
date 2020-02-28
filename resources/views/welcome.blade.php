@@ -14,6 +14,7 @@
             html, body {
                 background-color: #fff;
                 color: orange; /*#636b6f;*/
+                /*cambio en local*/
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
