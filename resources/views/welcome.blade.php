@@ -14,11 +14,12 @@
             html, body {
                 background-color: #fff;
                 color: orange; /*#636b6f;*/
-                /*cambio en local 2*/
+                /*cambio en local 3*/
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
+                /*cambio en local 4*/
             }
 
             .full-height {
